@@ -1,2 +1,4 @@
+from hello_python_library import helloString
+
 def hello():
-    print("Hello world!")
+    print(helloString('world'))
